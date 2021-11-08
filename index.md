@@ -8,6 +8,5 @@ layout: default
 [Reddit](https://boiledtomatoes.github.io/reddit.html)
 [Paperio](https://boiledtomatoes.github.io/paper.html)
 [Onslaught Arena](https://boiledtomatoes.github.io/onslaught-arena.html)
-[Paperio](https://boiledtomatoes.github.io/paper.html)
 [Mario Infinite](https://boiledtomatoes.github.io/mario/)
 
