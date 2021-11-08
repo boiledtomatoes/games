@@ -4,7 +4,7 @@ layout: default
 
 [Youtube](https://boiledtomatoes.github.io/youtube.html)
 [Cookie clicker](https://boiledtomatoes.github.io/cookieclicker/)
-[Minecraft](https://boiledtomatoes.github.io/minecraft.html)
+[Minecraft](https://boiledtomatoes.github.io/classic-minecraft)
 [Reddit](https://boiledtomatoes.github.io/reddit.html)
 [Paperio](https://boiledtomatoes.github.io/paper.html)
 [Onslaught Arena](https://boiledtomatoes.github.io/onslaught-arena.html)
