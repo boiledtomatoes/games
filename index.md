@@ -9,4 +9,4 @@ layout: default
 [Paperio *will be fixed soon*](https://boiledtomatoes.github.io/paper.html)
 [Onslaught Arena](https://boiledtomatoes.github.io/onslaught-arena.html)
 [Mario Infinite](https://boiledtomatoes.github.io/mario/)
-[Emulator *need to download rom*)](https://boiledtomatoes.github.io/emulator/)
+[Emulator *need to download rom*](https://boiledtomatoes.github.io/emulator/)
