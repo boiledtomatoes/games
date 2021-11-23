@@ -2,7 +2,8 @@
 layout: default
 ---
 
-[Youtube](https://boiledtomatoes.github.io/yt-viewer/)
+[Youtube](https://boiledtomatoes.github.io/youtube/)
+[Youtube Player](https://boiledtomatoes.github.io/yt-player/)
 [Cookie clicker](https://boiledtomatoes.github.io/cookieclicker/)
 [Minecraft](https://boiledtomatoes.github.io/minecraft-classic)
 [Reddit (may not show)](https://boiledtomatoes.github.io/reddit.html)
