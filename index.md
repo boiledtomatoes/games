@@ -42,3 +42,4 @@ layout: default
 - [tower master](https://boiledtomatoes.github.io/gstore/html5games/towermaster)
 - [underrun](https://boiledtomatoes.github.io/gstore/html5games/underrun)
 - [xx142-b2.exe](https://boiledtomatoes.github.io/gstore/html5games/xx142-b2exe)
+- [hackertyper](https://boiledtomatoes.github.io/hackertype)
