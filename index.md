@@ -8,7 +8,7 @@ layout: default
 - [Minecraft](https://boiledtomatoes.github.io/minecraft-classic)
 - [Reddit](https://boiledtomatoes.github.io/reddit.html)
 - [Paperio](https://boiledtomatoes.github.io/paper.html)
-- [Onslaught Arena](https://boiledtomatoes.github.io/onslaught-arena.html)
+- [Onslaught Arena](https://boiledtomatoes.github.io/onslaunt_arena/htdocs)
 - [Mario Infinite](https://boiledtomatoes.github.io/mario/)
 - [Emulator](https://boiledtomatoes.github.io/emulator/)
 - [Friday Night Funkin'](https://boiledtomatoes.github.io/fnf/)
