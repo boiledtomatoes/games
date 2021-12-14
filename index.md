@@ -3,7 +3,7 @@ layout: default
 ---
 ### Games
 - [Youtube](https://boiledtomatoes.github.io/youtube/) 
-- [Youtube Player](https://boiledtomatoes.github.io/yt-player/) 
+- [Youtube Player](https://weekendgamez12.github.io/yt-player/) 
 - [Cookie clicker](https://boiledtomatoes.github.io/cookieclicker/)
 - [Minecraft](https://boiledtomatoes.github.io/minecraft-classic)
 - [Reddit](https://boiledtomatoes.github.io/reddit.html)
