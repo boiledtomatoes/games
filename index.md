@@ -43,3 +43,8 @@ layout: default
 - [underrun](https://boiledtomatoes.github.io/gstore/html5games/underrun)
 - [xx142-b2.exe](https://boiledtomatoes.github.io/gstore/html5games/xx142-b2exe)
 - [hackertyper](https://boiledtomatoes.github.io/hackertype)
+- [Riddle School 1](https://boiledtomatoes.github.io/flash/riddleschool1)
+- [Riddle School 2](https://boiledtomatoes.github.io/flash/riddleschool2)
+- [Riddle School 3](https://boiledtomatoes.github.io/flash/riddleschool3)
+- [Riddle School 4](https://boiledtomatoes.github.io/flash/riddleschool4)
+- [Riddle School 5](https://boiledtomatoes.github.io/flash/riddleschool5)
