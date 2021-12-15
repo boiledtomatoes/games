@@ -53,3 +53,4 @@ layout: default
 - [Duck Life 2](https://boiledtomatoes.github.io/flash/ducklife2.html)
 - [Duck Life 3](https://boiledtomatoes.github.io/flash/ducklife3.html)
 - [Duck Life 4](https://boiledtomatoes.github.io/flash/ducklife4.html)
+- [Electric Man 2](https://boiledtomatoes.github.io/flash/electricman2.html)
