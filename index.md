@@ -48,3 +48,4 @@ layout: default
 - [Riddle School 3](https://boiledtomatoes.github.io/flash/riddleschool3)
 - [Riddle School 4](https://boiledtomatoes.github.io/flash/riddleschool4)
 - [Riddle School 5](https://boiledtomatoes.github.io/flash/riddleschool5)
+- [Super Smash Flash](https://boiledtomatoes.github.io/flash/supersmashflash.html)
