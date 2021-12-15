@@ -49,3 +49,7 @@ layout: default
 - [Riddle School 4](https://boiledtomatoes.github.io/flash/riddleschool4)
 - [Riddle School 5](https://boiledtomatoes.github.io/flash/riddleschool5)
 - [Super Smash Flash](https://boiledtomatoes.github.io/flash/supersmashflash.html)
+- [Duck Life 1](https://boiledtomatoes.github.io/flash/ducklife.html)
+- [Duck Life 2](https://boiledtomatoes.github.io/flash/ducklife2.html)
+- [Duck Life 3](https://boiledtomatoes.github.io/flash/ducklife3.html)
+- [Duck Life 4](https://boiledtomatoes.github.io/flash/ducklife4.html)
