@@ -57,4 +57,4 @@ layout: default
 
 
 
-[view changes](https://boiledtomatoes.github.io/games/changelog.md)
+[view changes](https://boiledtomatoes.github.io/games/changelog.html)
