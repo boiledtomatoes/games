@@ -54,3 +54,7 @@ layout: default
 - [Duck Life 3](https://boiledtomatoes.github.io/flash/ducklife3.html)
 - [Duck Life 4](https://boiledtomatoes.github.io/flash/ducklife4.html)
 - [Electric Man 2](https://boiledtomatoes.github.io/flash/electricman2.html)
+
+
+
+[view changes](https://boiledtomatoes.github.io/games/changelog.md)
