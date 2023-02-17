@@ -2,13 +2,11 @@
 layout: default
 ---
 ### Games
-- [Youtube](https://boiledtomatoes.github.io/youtube/) 
-- [Youtube Player](https://boiledtomatoes.github.io/yt-player/) 
+ - [Youtube Player](https://boiledtomatoes.github.io/yt-player/) 
 - [Cookie clicker](https://boiledtomatoes.github.io/cookieclicker/)
 - [Minecraft](https://boiledtomatoes.github.io/minecraft-classic)
 - [Reddit](https://boiledtomatoes.github.io/reddit.html)
 - [Paperio](https://boiledtomatoes.github.io/paper.html)
-- [Onslaught Arena](https://boiledtomatoes.github.io/onslaunt_arena/htdocs)
 - [Mario Infinite](https://boiledtomatoes.github.io/mario/)
 - [Emulator](https://boiledtomatoes.github.io/emulator/)
 - [Friday Night Funkin'](https://boiledtomatoes.github.io/fnf/)
@@ -20,7 +18,6 @@ layout: default
 - [break lock](https://boiledtomatoes.github.io/gstore/html5games/breaklock)
 - [breakout](https://boiledtomatoes.github.io/gstore/html5games/breakout)
 - [chess](https://boiledtomatoes.github.io/gstore/html5games/chess)
-- [chroma incident](https://boiledtomatoes.github.io/gstore/chromaincident/)
 - [connect 3](https://boiledtomatoes.github.io/gstore/html5games/connect3)
 - [evil glitch](https://boiledtomatoes.github.io/gstore/html5games/evilglitch)
 - [factory balls forever](https://boiledtomatoes.github.io/gstore/html5games/factoryballsforever)
@@ -43,7 +40,7 @@ layout: default
 - [underrun](https://boiledtomatoes.github.io/gstore/html5games/underrun)
 - [xx142-b2.exe](https://boiledtomatoes.github.io/gstore/html5games/xx142-b2exe)
 - [hackertyper](https://boiledtomatoes.github.io/hackertype)
-- [Riddle School 1](https://boiledtomatoes.github.io/flash/riddleschool1)
+- [Riddle School 1](https://boiledtomatoes.github.io/flash/riddleschool)
 - [Riddle School 2](https://boiledtomatoes.github.io/flash/riddleschool2)
 - [Riddle School 3](https://boiledtomatoes.github.io/flash/riddleschool3)
 - [Riddle School 4](https://boiledtomatoes.github.io/flash/riddleschool4)
